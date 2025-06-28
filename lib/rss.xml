@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[NeuronGraph_website]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>NeuronGraph_website</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 28 Jun 2025 13:12:20 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 28 Jun 2025 13:12:14 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Architectural Overview]]></title><description><![CDATA[ 
+ <br><a data-href="Index" href="index.html" class="internal-link" target="_self" rel="noopener nofollow">Index</a><br><br>Loren impsum<br>]]></description><link>blog/architecture.html</link><guid isPermaLink="false">Blog/Architecture.md</guid><pubDate>Sun, 10 Dec 2023 14:01:44 GMT</pubDate></item><item><title><![CDATA[Core Concepts]]></title><description><![CDATA[ 
+ <br><a data-href="Index" href="index.html" class="internal-link" target="_self" rel="noopener nofollow">Index</a><br><br><br>This is the main areas of "research". Use reasoning for all kinds of tasks:<br>
+<br>Meta reasoning or the "Director" for switching contexts
+<br>To figure out how to learn new skills
+<br><br>Consists of three sub-domains:<br><br>This is the main knowledge base of the artifex. Conceptualized as a Graph database.<br><br>This is in the form of knowledge shards in a vector database. This would be populated by uploaded or input documents coming in from the human inputs<br><br>Derived knowledge from the other types of knowledge. Some amount of introverted thinking. More than just facts. Maybe values, course corrections, meta knowledge<br><br>Consists of two sub-domains:<br><br>Coded by the human<br><br>Skills that could be taught (and code generated) via human chat inputs, wisdom and artiflex reasoning<br><br>Retrieval of information, answering questions including calculations, processing and reasoning]]></description><link>blog/core-concepts.html</link><guid isPermaLink="false">Blog/Core Concepts.md</guid><pubDate>Sun, 17 Mar 2024 06:19:19 GMT</pubDate></item><item><title><![CDATA[How did we go about building it]]></title><description><![CDATA[ 
+ <br><a data-href="Index" href="index.html" class="internal-link" target="_self" rel="noopener nofollow">Index</a><br><br><br>
+<br>9th Dec: 
+
+<br>Created the base streamlit chat app, and made calls to OpenAI GPT models. 
+<br>Took care of chat history and logging
+<br>Used OpenAI's GPT 3.5 &amp; 4 models to get the base code for individual functionality. 
+
+<br>But there were errors - it could not code the chat history in streamlit. It did not understand the st.session construct
+<br>And it could not write code for loguru - different levels to different channels or files. For that I had to go back and research the web and find answers
+
+
+
+
+<br>10th Dec:
+
+<br>Found something very interesting in this <a data-tooltip-position="top" aria-label="https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a" rel="noopener nofollow" class="external-link" href="https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a" target="_blank">article</a>
+
+<br>ollama - to run models locally
+<br>zephyr - a powerful open source model
+
+
+<br>I installed ollama and played with it today
+
+
+]]></description><link>blog/how-did-we-go-about-building-it.html</link><guid isPermaLink="false">Blog/How did we go about building it.md</guid><pubDate>Sat, 28 Jun 2025 13:09:00 GMT</pubDate></item><item><title><![CDATA[Introducing NeuronGraph]]></title><description><![CDATA[ 
+ <br><br><img alt="attachments/NeuronGraph_Logo_2.png" src="attachments/neurongraph_logo_2.png"><br>Welcome to NeuronGraph, where innovation meets productivity! We are on the brink of introducing a groundbreaking Generative AI product designed to revolutionize personal efficiency. Our cutting-edge technology seamlessly integrates into daily tasks, augmenting your productivity like never before.<br>At NeuronGraph, we take the term "generative" to a whole new level. With our Gen AI, we empower the system to build itself. Picture this: you can effortlessly add and create code through a simple chat interface using advanced code generation techniques. Just describe the functionality you need, and our Gen AI will autonomously implement it.<br><img alt="attachments/NeuroGraphical_Landscape.jpg" src="attachments/neurographical_landscape.jpg"><br>Our technical philosophy is inspired by the intricacies of neurons and graphs. Drawing parallels between neural networks, the human brain's neurons, and knowledge graphs, we have created a harmonious fusion of these concepts. Imagine the synergy of neural networks and the human brain working together, representing knowledge in the form of interconnected graphs. This is the essence of NeuronGraph – where technology meets the brilliance of the human mind. Join us on this exciting journey as we redefine what's possible in the realm of Generative AI. <br><br>We intend to publish a series of blogs or articles that documents our journey as we build the AI being. Follow along...<br><a data-href="Core Concepts" href="blog/core-concepts.html" class="internal-link" target="_self" rel="noopener nofollow">Core Concepts</a><br>
+<a data-href="Architecture" href="blog/architecture.html" class="internal-link" target="_self" rel="noopener nofollow">Architecture</a><br>
+<a data-href="How did we go about building it" href="blog/how-did-we-go-about-building-it.html" class="internal-link" target="_self" rel="noopener nofollow">How did we go about building it</a><br>]]></description><link>index.html</link><guid isPermaLink="false">Index.md</guid><pubDate>Sat, 28 Jun 2025 13:11:39 GMT</pubDate><enclosure url="attachments/neurongraph_logo_2.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;attachments/neurongraph_logo_2.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
