@@ -1,8 +1,8 @@
 {
   "vaultName": "NeuronGraph_website",
-  "lastExport": 1751174762480,
+  "lastExport": 1751198663937,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager show-inline-title show-ribbon theme-dark sanctum-default-light sanctum-default-dark default-marker-odd default-marker-even",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon sanctum-default-light sanctum-default-dark default-marker-odd default-marker-even",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
@@ -12,6 +12,7 @@
     "Blog/About.md",
     "Blog/All Writings.md",
     "Blog/Finding your authentic self.md",
+    "Blog/Test HDR image.md",
     "Product_Backlog/Architecture.md",
     "Product_Backlog/Core Concepts.md",
     "Product_Backlog/How did we go about building it.md",
@@ -38,7 +39,6 @@
     "lib/styles/obsidian.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
     "attachments/neurongraph_logo_2.png",
     "attachments/neurographical_landscape.jpg"
@@ -65,7 +65,6 @@
     "lib/styles/obsidian.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
@@ -109,97 +108,97 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1751174762480,
-      "sourceSize": 6372,
+      "modifiedTime": 1751198663937,
+      "sourceSize": 6697,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
@@ -235,13 +234,13 @@
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
@@ -253,19 +252,19 @@
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 396498,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 337,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
@@ -277,7 +276,7 @@
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1751174762480,
+      "modifiedTime": 1751198663937,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -319,8 +318,8 @@
       "dependencies": []
     },
     "Blog/All Writings.md": {
-      "modifiedTime": 1751174762480,
-      "sourceSize": 834,
+      "modifiedTime": 1751197099965,
+      "sourceSize": 4673,
       "exportedPath": "blog/all-writings.html",
       "dependencies": []
     },
@@ -334,6 +333,12 @@
       "modifiedTime": 1751174520349,
       "sourceSize": 490,
       "exportedPath": "knowledge.art.technology.html",
+      "dependencies": []
+    },
+    "Blog/Test HDR image.md": {
+      "modifiedTime": 1751198663937,
+      "sourceSize": 304,
+      "exportedPath": "blog/test-hdr-image.html",
       "dependencies": []
     }
   }
