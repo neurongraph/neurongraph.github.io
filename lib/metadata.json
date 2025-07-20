@@ -1,6 +1,6 @@
 {
   "vaultName": "NeuronGraph_website",
-  "lastExport": 1752997449350,
+  "lastExport": 1753002593765,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon sanctum-default-light sanctum-default-dark default-marker-odd default-marker-even",
   "useCustomHeadContent": false,
@@ -11,6 +11,8 @@
     "attachments/NeuronGraph_Logo_2.png",
     "Blog/About.md",
     "Blog/All Writings.md",
+    "Blog/Biological concepts for building better AI.png",
+    "Blog/Brains do Machine Learning.png",
     "Blog/Finding your authentic self.md",
     "Blog/While sleeping our brains become an ML machine.md",
     "Product_Backlog/Architecture.md",
@@ -65,67 +67,67 @@
   ],
   "fileInfo": {
     "attachments/NeuroGraphical_Landscape.jpg": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 452403,
       "exportedPath": "attachments/neurographical_landscape.jpg",
       "dependencies": []
     },
     "attachments/NeuronGraph_Logo.png": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 4483922,
       "exportedPath": "attachments/neurongraph_logo.png",
       "dependencies": []
     },
     "attachments/NeuronGraph_Logo_2.png": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 2871424,
       "exportedPath": "attachments/neurongraph_logo_2.png",
       "dependencies": []
     },
     "Blog/About.md": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 76,
       "exportedPath": "blog/about.html",
       "dependencies": []
     },
     "Blog/All Writings.md": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 4768,
       "exportedPath": "blog/all-writings.html",
       "dependencies": []
     },
     "Blog/Finding your authentic self.md": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 1368,
       "exportedPath": "blog/finding-your-authentic-self.html",
       "dependencies": []
     },
     "Product_Backlog/Architecture.md": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 68,
       "exportedPath": "product_backlog/architecture.html",
       "dependencies": []
     },
     "Product_Backlog/Core Concepts.md": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 1016,
       "exportedPath": "product_backlog/core-concepts.html",
       "dependencies": []
     },
     "Product_Backlog/How did we go about building it.md": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 838,
       "exportedPath": "product_backlog/how-did-we-go-about-building-it.html",
       "dependencies": []
     },
     "header.md": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 490,
       "exportedPath": "header.html",
       "dependencies": []
     },
     "Index.md": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 1693,
       "exportedPath": "index.html",
       "dependencies": [
@@ -134,141 +136,161 @@
       ]
     },
     "attachments/neurongraph_logo_2.png": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 2871424,
       "exportedPath": "attachments/neurongraph_logo_2.png",
       "dependencies": []
     },
     "attachments/neurographical_landscape.jpg": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 452403,
       "exportedPath": "attachments/neurographical_landscape.jpg",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 396498,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 337,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1752997449350,
+      "modifiedTime": 1753002593765,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Blog/While sleeping our brains become an ML machine.md": {
-      "modifiedTime": 1752997449350,
-      "sourceSize": 12615,
+      "modifiedTime": 1753002593765,
+      "sourceSize": 12653,
       "exportedPath": "blog/while-sleeping-our-brains-become-an-ml-machine.html",
+      "dependencies": [
+        "blog/brains-do-machine-learning.png"
+      ]
+    },
+    "Blog/Biological concepts for building better AI.png": {
+      "modifiedTime": 1753002593765,
+      "sourceSize": 423570,
+      "exportedPath": "blog/biological-concepts-for-building-better-ai.png",
+      "dependencies": []
+    },
+    "Blog/Brains do Machine Learning.png": {
+      "modifiedTime": 1753002593765,
+      "sourceSize": 3665041,
+      "exportedPath": "blog/brains-do-machine-learning.png",
+      "dependencies": []
+    },
+    "blog/brains-do-machine-learning.png": {
+      "modifiedTime": 1753002593765,
+      "sourceSize": 3665041,
+      "exportedPath": "blog/brains-do-machine-learning.png",
       "dependencies": []
     }
   }
